@@ -11,10 +11,10 @@ This is a Java program that generates and solves mazes using DFS, BFS, A* and Di
 - Java SE Development Kit (JDK) 8 or later
 
 ## knowledge for this project
-- oop
-- classes, abstract classes, interfaces, generic classes, composition, inheritanche , polymorphism
-- data structures : Queue, Stack, Linked List, Array List, 2D Array, Graphs, HashSet, HashMap
-- algorithms: BFS , DFS , A* , Dijkstra
+- OOP
+- Classes, Abstract Classes, Interfaces, Generic Classes, Composition, Inheritanche , Polymorphism
+- Data Structures : Queue, Stack, Linked List, Array List, 2D Array, Graphs, HashSet, HashMap
+- Algorithms: BFS , DFS , A* , Dijkstra
 - GUI
 - Threads
 - Exceptions
